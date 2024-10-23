@@ -1,4 +1,14 @@
 # TTS-Models-for-English-Technical-Speech-and-Regional-Languages
+Libraries-
+Task1
+pip install transformers datasets torch soundfile
+
+Task2
+pip install bark scipy ipython
+
+Task Bonus-
+pip install transformers datasets torch soundfile
+
 
  Objective:
  The purpose of this assignment is to fine-tune two text-to-speech (TTS) models. One model will
