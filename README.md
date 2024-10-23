@@ -2,7 +2,7 @@
 
 #Steps to run the code-
 Step 1: Set Up Your Environment
-Install Python: Ensure you have Python (preferably 3.7 or later) installed on your system.
+Install Python: Ensure you have Python (preferably 3.7 or later) installed on your system
 
 Create a Virtual Environment:
 python -m venv myenv
