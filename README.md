@@ -1,4 +1,28 @@
 # TTS-Models-for-English-Technical-Speech-and-Regional-Languages
+
+#Steps to run the code-
+Step 1: Set Up Your Environment
+Install Python: Ensure you have Python (preferably 3.7 or later) installed on your system.
+
+Create a Virtual Environment:
+python -m venv myenv
+source myenv/bin/activate  # On Windows use: myenv\Scripts\activate
+Step 2: Install Required Libraries
+Run the following command to install the necessary libraries:
+pip install transformers datasets torch soundfile
+Step 3: Write the Code
+Create a New Python File: Open your favorite code editor or IDE and create a new Python file.
+Copy the Code: Paste the provided code (myttsproject1.py) into your new Python file.
+
+Step 4: Run the Code
+Run the Python Script:
+python myttsproject1.py
+Step 5: Check Outputs
+After running the script, you should find two audio files saved in the myenv directory: speech_before.wav and speech_after.wav.
+You should also see printed inference times for both before and after optimization.
+
+
+
 Libraries-
 Task1
 pip install transformers datasets torch soundfile
